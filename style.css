@@ -1,1 +1,8 @@
 
+@import url("styles/header.css");
+:root{
+    --verde; --fundo-verde; --azul; --fonte-projeto:"dosis";
+}
+body{
+    background-color: var(--verde); margin: 0; font-family: font-family: 'Rye', cursive;
+}
