@@ -1,7 +1,7 @@
 
 @import url("style/header.css");
 :root{
-    --verde; --fundo-verde; --azul; --fonte-projeto:"dosis";
+    --verde: #008000; --fundo-verde: #00e000; --azul: #3e3eff; --fonte-projeto:"dosis";
 }
 body{
     background-color: var(--verde); margin: 0; font-family: font-family: 'Rye', cursive;
